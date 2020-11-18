@@ -1,42 +1,41 @@
-<h2 align="center">My-README.md-Template✅</h2>
+<h2 align="center">Netflix Website✅</h2>
 
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
 </p>
 
 <p align='center'> 
-   <img src="https://img.shields.io/github/issues/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/contributors/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/issues/sandip2224/My-Netflix-Clone?style=for-the-badge" />
+   <img src="https://img.shields.io/github/stars/sandip2224/My-Netflix-Clone?style=for-the-badge" />
+   <img src="https://img.shields.io/github/forks/sandip2224/My-Netflix-Clone?style=for-the-badge" />
+   <img src="https://img.shields.io/github/contributors/sandip2224/My-Netflix-Clone?style=for-the-badge" />
    <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
-   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" /></a><br>
+   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-Netflix-Clone?color=purple&style=for-the-badge" />
+   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-Netflix-Clone?color=purple&style=for-the-badge" /></a><br>
 </p>
 <p align="center">
-  <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/sandip2224/My-Netflix-Clone"><strong>Explore the docs »</strong></a>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandip2224/My-Netflix-Clone">View Demo</a>
     ·
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandip2224/My-Netflix-Clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandip2224/My-Netflix-Clone/issues">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
-   - [Preview](#preview)
+  - [Preview](#preview)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -48,40 +47,30 @@
 
 <h2 align="center">About the Project</h2>
 
-
-There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
+This Netflix clone website is solely an attempt to work on my own frontend development skills. It is handcrafted with HTML, CSS and basic JavaScript only without any additional frameworks as such. The website also has a consistent dark color scheme and is fully responsive as well. 
 
 
 Here's why it's so awesome:  
 
-- ***You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.*** 😁  
-- ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
-- ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
+- ***The website has a consistent color palette throughout without exceptions.*** 😁  
+- ***The website is fully responsive and accomodates well on smaller viewports.*** ✅  
+- ***It is built with simple HTML, CSS and JavaScript and will be easy to understand.*** 🖖  
 
-**Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.**  
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.  
+> **Of course I encourage you to suggest changes by forking this repository and creating a pull request or by opening an issue.**  
 
 <!-- Preview -->
 <h2 align="center">Preview</h2>
 
-<p align="center"><img src="img/grid_image.png" height=400 width=800/></p>
+<p align="center"><img src="img/mockup1.jpg" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
-
-<p align="center">
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>  
-
+- HTML 5
+- CSS 3
+- JavaScript
 
 <!-- GETTING STARTED -->
 
@@ -89,16 +78,15 @@ This section should list any major frameworks that you built your project using 
 
 To get a local copy up and running follow these simple example steps as mentioned based on your project.  
 
-
 <!-- PREREQUISITES -->
 
 <h2 align="center">Prerequisites</h2>
 
-This is an example of how to list things you need to set up the project and get it running:  
+This website requires working knowledge of the following: 
 
-- [x] HTML 5  
-- [x] Express.js
-- [x] EJS Templates  
+- [x] HTML 5 markup
+- [x] CSS 3 grids and overlays
+- [x] JavaScript Event Listeners
 
 
 <!-- INSTALLATION -->
@@ -107,21 +95,11 @@ This is an example of how to list things you need to set up the project and get 
 1. Fork and clone this repository using  
 
 ```
-  git clone https://github.com/sandipan_2224/My-README.md-Template.git
-  cd My-README.md-Template 
+  git clone https://github.com/sandipan_2224/My-Netflix-Clone.git
+  cd My-Netflix-Clone 
 ```  
 
-2. Add required steps to get the project up and running.  
-
-
-<!-- USAGE -->
-
-<h2 align="center">Usage</h2>
-
-Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
-
-_For more examples, please refer to the [Documentation](https://example.com)_  
-
+2. Open the folder inside a working HTML code editor and launch the `index.html` file.
 
 
 <!-- LICENSE -->  
@@ -157,8 +135,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Acknowledgements</h2>
 
-* [GitHub Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [HTML docs](https://www.w3schools.com/html/)
+* [CSS docs](https://www.w3schools.com/css/default.asp)
+* [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
 <h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
