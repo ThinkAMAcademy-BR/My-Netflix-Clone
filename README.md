@@ -1,4 +1,4 @@
-<h2 align="center">Netflix Website Clone✅</h2>
+<h2 align="center">Netflix Website Clone</h2>
 
 <p align="center">
    <img src="img/netflix.png" alt="Logo" height=80 width=80/>
