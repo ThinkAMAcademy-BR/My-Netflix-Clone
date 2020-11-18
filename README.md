@@ -56,7 +56,7 @@ Here's why it's so awesome:
 - ***The website is fully responsive and accomodates well on smaller viewports.*** ✅  
 - ***It is built with simple HTML, CSS and JavaScript and will be easy to understand.*** 🖖  
 
-> **Of course I encourage you to suggest changes by forking this repository and creating a pull request or by opening an issue.**  
+> Of course I encourage you to suggest changes by forking this repository and creating a pull request or by opening an issue.
 
 <!-- Preview -->
 <h2 align="center">Preview</h2>
